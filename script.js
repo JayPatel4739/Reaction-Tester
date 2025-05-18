@@ -11,7 +11,7 @@ function getRandomColor() {
 
 function showBox() {
     var square = document.getElementById("square");
-    var left = Math.random() * 300;
+    var left = Math.random() * 1200;
     var top = Math.random() * 300;
     var wh = Math.random() * 200 + 100;
 
