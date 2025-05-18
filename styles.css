@@ -13,3 +13,8 @@ body{
 .text{
     font-family: 'Times New Roman', Times, serif;
 }
+
+.content{
+    text-align: center;
+    font-size: 20px;
+}
